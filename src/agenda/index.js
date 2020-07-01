@@ -12,8 +12,8 @@ import {VelocityTracker} from '../input';
 import {AGENDA_CALENDAR_KNOB} from '../testIDs';
 
 
-const HEADER_HEIGHT = 104;
-const KNOB_HEIGHT = 24;
+const HEADER_HEIGHT = 0;
+const KNOB_HEIGHT = 0;
 // Fallback when RN version is < 0.44
 const viewPropTypes = ViewPropTypes || View.propTypes;
 
